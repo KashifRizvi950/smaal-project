@@ -1,1 +1,1 @@
-# smaal-project
+# small-project
